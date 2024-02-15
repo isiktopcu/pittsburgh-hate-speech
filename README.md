@@ -2,6 +2,5 @@
 
 
 This is a joint [project](https://www.fordinstitute.pitt.edu/working-groups-0/online-violence-against-women-politics) of Koç University Center for Computational Social Sciences and the University of Pittsburgh 
-Ford Institute of Human Security. We first built deep learning models to detect various types of online abuse like offensive and hate speech. BERT-based transformers models were employed to detect hate 
-and offensive speech in tweets directed at male and female
-Turkish candidates during the run-up to the 2023 general elections. Our models classified social media posts mentioning political figures into narrative categories, identifying whether the post discussed the individual's political or professional qualities (e.g., policy proposals, ideologies, or political performance) or personal traits (e.g., identity or personality). 
+Ford Institute of Human Security. Our objective was to develop and refine deep learning models capable of detecting and classifying instances of hate speech directed at political figures in social media posts during the run-up to the 2023 general elections. By analyzing a dataset of over 1.1 million tweets by approximately 176,000 users, the research dissects the temporality, spatial distribution, thematic content, and demographic characteristics of the hate speech, alongside its implications for candidates' electability.
+
